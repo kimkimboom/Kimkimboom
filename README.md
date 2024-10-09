@@ -25,8 +25,8 @@ I am a frontend web developer with over 3 years of experience in building dynami
 - Contact form for easy communication
 
 ## Projects
-### 1. **Sudoku Web Game**
-A web-based Sudoku game with multiple difficulty levels, built using vanilla JavaScript.
+### 1. **Web Game**
+A web-based game with multiple difficulty levels, built using vanilla JavaScript.
 
 ### 2. **Personal Portfolio Website**
 This portfolio website, built with HTML, CSS, and JavaScript.
