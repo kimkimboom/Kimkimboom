@@ -35,6 +35,6 @@ This portfolio website, built with HTML, CSS, and JavaScript.
 A mock e-commerce frontend application developed using React.js, including product listings and cart functionality.
 
 ## Contact
-Feel free to reach out to me via the contact form on the website or through email: [your-email@example.com].
+Feel free to reach out to me via the contact form on the website or through email: [kimkimbom@nyalaabngku.com].
 
 © 2024 Lee Kim Bon. All rights reserved.
